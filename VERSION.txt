@@ -1,0 +1,2 @@
+APK Test Studio — v0.1.0-beta.1
+Windows x64 controller — SDK not bundled
