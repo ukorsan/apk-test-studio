@@ -2,7 +2,7 @@
 
 **A simple Windows controller for installing and testing Android APKs on the official Android Emulator.**
 
-![APK Test Studio Interface](docs/interface.png)
+![APK Test Studio Interface](docs/apk-test-studio-interface-20261010.png)
 
 APK Test Studio lets developers select a local APK, install it with ADB, launch it in a private Android emulator, and use a clean white control sidebar for Home, Back, Recents, rotation and screenshots.
 
